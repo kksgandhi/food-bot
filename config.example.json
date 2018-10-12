@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "channel": "500421632561774593",	
+    "react_emoji": "🐙",
+		"role_id": "<@&500421220982849536>",
+    "rankCheck": {
+        "enabled": false,
+        "roles": [
+            "React"
+        ]
+    }
+}
